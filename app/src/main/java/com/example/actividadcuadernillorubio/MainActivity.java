@@ -10,7 +10,9 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Spinner;
 import android.widget.TextView;
-
+/*
+prueba para commitear
+ */
 public class MainActivity extends AppCompatActivity {
     Spinner spn;
     Operaciones o;
