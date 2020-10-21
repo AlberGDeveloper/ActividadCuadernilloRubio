@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="niveles">
+        <item>NIVEL 1: Sumas de una cifra</item>
+        <item>NIVEL 2: Sumas de dos cifras</item>
+        <item>NIVEL 3: Restas de una cifra</item>
+        <item>Multiplicaciones de una cifra</item>
+    </string-array>
+</resources>
